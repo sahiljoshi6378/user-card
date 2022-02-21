@@ -20,7 +20,8 @@
     --text-secondery: hsl(215, 51%, 70%);
     --Cyan: hsl(178, 100%, 50%);
     --saperator-line: hsl(215, 32%, 27%);
-    --gamaGreen-shadow: rgb(76, 0, 255) 0px -12px 30px, rgb(255, 0, 0) 0px 4px 6px, rgb(0, 255, 136) 0px 12px 13px, rgb(212, 0, 255) 0px -3px 5px;
+    --gamaGreen-shadow: rgb(127, 255, 0) 0px -12px 30px, rgb(127, 255, 0) 0px 4px 6px, rgb(127, 255, 0) 0px 12px 13px, rgb(127, 255, 0) 0px -3px 5px;
+
 }
 
 
